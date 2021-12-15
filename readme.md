@@ -8,5 +8,3 @@ The majority of the files within this project are reused from the student mini-p
 - server.js
 - index.js
 - db.js
-
-Deployed application: https://ts-on-offline-budget-tracker.herokuapp.com/
